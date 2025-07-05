@@ -118,7 +118,7 @@ function Companies() {
 
   return (
     <div style={{ maxWidth: 600, margin: '40px auto', fontFamily: 'Arial, sans-serif' }}>
-      <h1>Şirket Listesi</h1>
+      <h1>Şirketler</h1>
 
       <button
         onClick={() => {
